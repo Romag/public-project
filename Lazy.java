@@ -1,1 +1,3 @@
-public class Lazy {}
+public class Lazy {
+    int i;
+}
