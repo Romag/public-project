@@ -1,1 +1,3 @@
-public class Buzz {}
+public class Buzz {
+	private String buzz = "BUZZ";
+}
