@@ -8,7 +8,6 @@ public class Placeholder {
   "really" +
   "long" +
   "text" +
-  "rofl2" +
   "into" +
   "file" +
   "for" +
