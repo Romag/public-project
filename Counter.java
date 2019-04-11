@@ -1,1 +1,3 @@
-public class Counter {}
+public class Counter {
+
+}
